@@ -43,12 +43,17 @@
 .sub {
   font-size: 24pt;
   font-weight: 800;
+  padding-top: 50px;  
+  padding-bottom: 12px;
+
 }
 
 .copy {
   font-size: 18pt;
   font-weight: 400;
   padding: 15px;
+  padding-bottom: 30px;
+
 }
  .cards {
    display: flex;
@@ -130,4 +135,7 @@
 }
 .hero {
   width: 100vw;
+}
+.list {
+  padding-bottom: 30px;
 }
