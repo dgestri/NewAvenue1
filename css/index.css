@@ -53,8 +53,8 @@
   font-weight: 400;
   padding: 15px;
   padding-bottom: 30px;
-  margin: 50px;
-
+  margin-left: 50px;
+  margin-right: 50px;
 }
  .cards {
    display: flex;
