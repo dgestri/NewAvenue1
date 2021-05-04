@@ -32,7 +32,6 @@
   color: #393733;
   background-color: #F1F0EA;
   text-align: center;
-  padding: 50px;
 }
 
 .title {
@@ -64,7 +63,7 @@
    background-color: #93AF81;
    color: #F1F0EA;
    text-align: center;
-   height: 283px;
+   height: 370px;
    align-items: center;
    padding: 50px;
  }
@@ -124,4 +123,11 @@
 
 .footerText {
  padding-top: 40px;
+}
+
+.dropdown-divider {
+  border-top: 3px solid #DFA213;
+}
+.hero {
+  width: 100vw;
 }
