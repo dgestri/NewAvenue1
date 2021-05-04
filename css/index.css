@@ -54,7 +54,7 @@
   padding: 15px;
   padding-bottom: 30px;
   margin-left: 50px;
-  margin-right: 50px;
+  margin-right: 50px3;
 }
  .cards {
    display: flex;
@@ -112,9 +112,9 @@
  }
 
  .dropdown-menu{
-  background-color: #F1F0EA;
-  border-color: #DFA213;
-  border-width: 3pt;
+  background-color: #DFA213;
+  border-left: 1px solid #F1F0EA;
+
 }
 
 .dropdown-item:hover {
@@ -132,7 +132,7 @@
 }
 
 .dropdown-divider {
-  border-top: 3px solid #DFA213;
+  border-top: 1px solid #F1F0EA;
 }
 .hero {
   width: 100vw;
