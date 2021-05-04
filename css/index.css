@@ -54,7 +54,7 @@
   padding: 15px;
   padding-bottom: 30px;
   margin-left: 50px;
-  margin-right: 50px3;
+  margin-right: 50px;
 }
  .cards {
    display: flex;
@@ -72,6 +72,7 @@
    height: 370px;
    align-items: center;
    padding: 50px;
+  
  }
 
 
@@ -139,4 +140,9 @@
 }
 .list {
   padding-bottom: 30px;
+}
+
+.igiveup {
+  height: 25px;
+  background-color: #F1F0EA;
 }
