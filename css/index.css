@@ -53,6 +53,7 @@
 }
  .cards {
    display: flex;
+   height: 390px;
  }
 
  .btn:hover { 
@@ -99,6 +100,10 @@
    background-color: #393733;
    height: 284px;
    color: #F1F0EA;
+   padding: 60px;
+   font-size: 10pt;
+   align-items: center;
+   font-weight: 600;
  }
 
  .dropdown-menu{
@@ -110,4 +115,13 @@
 .dropdown-item:hover {
   color: #F1F0EA;
   background-color: #C6481B;
+}
+.card-body {
+  padding: 24px;
+  height: 390px;
+
+}
+
+.footerText {
+ padding-top: 40px;
 }
