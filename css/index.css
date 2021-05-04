@@ -1,5 +1,5 @@
 .navbar {
-  min-height: 172px;
+  min-height: 140px;
   background-color: #DFA213;
   color: #393733;
   font-family: 'Barlow', sans-serif;
@@ -53,6 +53,7 @@
   font-weight: 400;
   padding: 15px;
   padding-bottom: 30px;
+  margin: 50px;
 
 }
  .cards {
